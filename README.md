@@ -6,7 +6,7 @@ Project consists of onjectives such as eigrp authentication; ip summarisation; I
 <h2>Lab:</h2>
 <p align="center">
 PROJECT:<br/>
-![image alt](https://github.com/mirxenia1/EIGRP/blob/494ce17a98cae07e71cb486f4e8956d499ffdc9b/lab.png?raw=true)
+![Lab Setup](https://raw.githubusercontent.com/mirxenia1/EIGRP/main/lab.png)
 
 <h2>🔐 1. Injecting Default route</h2>
 <div class="code">
